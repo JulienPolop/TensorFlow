@@ -1,0 +1,1 @@
+Ici se trouve le projet d'un réseau de neurone chargé de reconnaitre des types de panneaux sur des images. Il y a donc le juyter notebook contenant le projet ainsi que le dossier d'image servant à entrainer et à tester le réseau.
